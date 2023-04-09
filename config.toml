@@ -1,4 +1,5 @@
-baseurl = "https://example.org/"
+baseURL = "https://015saki.github.io/portfolio/"
+publishDir = "docs"
 title = "SAKI NAGAOKA"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "ja"
