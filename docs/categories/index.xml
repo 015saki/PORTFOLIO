@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on SAKI NAGAOKA</title>
-    <link>https://015saki.github.io/portfolio/categories/</link>
+    <link>https://015saki.github.io/PORTFOLIO/categories/</link>
     <description>Recent content in Categories on SAKI NAGAOKA</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language><atom:link href="https://015saki.github.io/portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language><atom:link href="https://015saki.github.io/PORTFOLIO/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
